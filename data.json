@@ -1,0 +1,124 @@
+{
+  "questions": [
+    {
+      "qno": 1,
+      "question": "What is the shape of a football?",
+      "options": ["Square", "Triangle", "Circle", "Oval"],
+      "answer": 3
+    },
+    {
+      "qno": 2,
+      "question": "How many players are on a football team on the field?",
+      "options": ["9", "10", "11", "12"],
+      "answer": 3
+    },
+    {
+      "qno": 3,
+      "question": "Which country is famous for its yellow football jersey?",
+      "options": ["Germany", "Brazil", "Italy", "France"],
+      "answer": 2
+    },
+    {
+      "qno": 4,
+      "question": "What is the name of the trophy awarded in the FIFA World Cup?",
+      "options": ["Golden Boot", "FIFA Cup", "World Cup Trophy", "Champions Cup"],
+      "answer": 3
+    },
+    {
+      "qno": 5,
+      "question": "What part of the body cannot touch the ball in football (except for the goalkeeper)?",
+      "options": ["Head", "Hands", "Feet", "Chest"],
+      "answer": 2
+    },
+    {
+      "qno": 6,
+      "question": "Which color card means a player is sent off in football?",
+      "options": ["Blue", "Red", "Green", "Yellow"],
+      "answer": 2
+    },
+    {
+      "qno": 7,
+      "question": "What is the name of the area where goals are scored?",
+      "options": ["Corner", "Penalty Box", "Goal Area", "Midfield"],
+      "answer": 3
+    },
+    {
+      "qno": 8,
+      "question": "Which country hosted the 2018 FIFA World Cup?",
+      "options": ["Russia", "Brazil", "Germany", "France"],
+      "answer": 1
+    },
+    {
+      "qno": 9,
+      "question": "Which country is known as 'Les Bleus' in football?",
+      "options": ["Italy", "Argentina", "France", "England"],
+      "answer": 3
+    },
+    {
+      "qno": 10,
+      "question": "What is used to start a football game?",
+      "options": ["Throw-In", "Kick-Off", "Corner Kick", "Goal Kick"],
+      "answer": 2
+    },
+    {
+      "qno": 11,
+      "question": "What does a goalkeeper do in football?",
+      "options": ["Score goals", "Defend the goal", "Pass the ball", "Take free kicks"],
+      "answer": 2
+    },
+    {
+      "qno": 12,
+      "question": "What is the duration of a standard football match?",
+      "options": ["60 minutes", "75 minutes", "90 minutes", "120 minutes"],
+      "answer": 3
+    },
+    {
+      "qno": 13,
+      "question": "What color is the standard football used in most matches?",
+      "options": ["Red", "Blue", "White", "Yellow"],
+      "answer": 3
+    },
+    {
+      "qno": 14,
+      "question": "Which part of the goal must the ball cross to count as a goal?",
+      "options": ["Crossbar", "Goal Line", "Post", "Net"],
+      "answer": 2
+    },
+    {
+      "qno": 15,
+      "question": "What does VAR stand for in football?",
+      "options": ["Video Assistant Referee", "Virtual Analysis Replay", "Video Accurate Replay", "Virtual Assistant Referee"],
+      "answer": 1
+    },
+    {
+      "qno": 16,
+      "question": "How many goals is a 'hat-trick'?",
+      "options": ["2", "3", "4", "5"],
+      "answer": 2
+    },
+    {
+      "qno": 17,
+      "question": "What is it called when the ball is kicked into the goal?",
+      "options": ["Foul", "Goal", "Offside", "Corner"],
+      "answer": 2
+    },
+    {
+      "qno": 18,
+      "question": "Which country is nicknamed 'The Samba Boys' in football?",
+      "options": ["Argentina", "Spain", "Brazil", "Portugal"],
+      "answer": 3
+    },
+    {
+      "qno": 19,
+      "question": "What is the referee's role in football?",
+      "options": ["Play as a substitute", "Keep score", "Enforce rules", "Manage team changes"],
+      "answer": 3
+    },
+    {
+      "qno": 20,
+      "question": "What happens after a draw in knockout matches?",
+      "options": ["Replay the match", "Extra Time", "Penalty Shootout", "Both B and C"],
+      "answer": 4
+    }
+  ]
+}
